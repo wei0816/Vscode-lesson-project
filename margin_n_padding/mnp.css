@@ -1,0 +1,36 @@
+.flex {
+  display: flex;
+}
+.aa {
+  background-color: #000000;
+  width: 80px;
+  height: 80px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.bb {
+  background-color: #ffff00;
+  width: 80px;
+  height: 80px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.cc {
+  background-color: #00ff00;
+  width: 80px;
+  height: 80px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.boxes {
+  width: 25%;
+  height: 25%;
+}
+
+.font {
+  font-size: 12px;
+  color: #ffffff;
+}
