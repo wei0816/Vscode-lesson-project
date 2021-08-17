@@ -1,4 +1,4 @@
-# Wei vscode Learning Project
+# Vscode-lesson-project
 
 **Content**
 
