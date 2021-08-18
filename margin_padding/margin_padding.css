@@ -1,0 +1,32 @@
+.white {
+  background-color: #fff;
+  width: 200px;
+  height: 270px;
+  padding: 8px;
+  margin: 50px;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.red {
+  background-color: #f07e7e;
+  width: 180px;
+  height: 160px;
+  padding: 10px;
+  margin: 1px;
+}
+
+.font {
+  margin-left: 10px;
+  margin-top: 7px;
+  font-size: 26px;
+  font-family: Arial Black;
+}
+
+.font-text {
+  margin-left: 15px;
+  margin-top: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(133, 130, 130);
+}
