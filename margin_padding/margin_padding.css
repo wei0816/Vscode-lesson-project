@@ -1,7 +1,6 @@
 .white {
   background-color: #fff;
   width: 200px;
-  height: 270px;
   padding: 8px;
   margin: 50px;
   border-color: black;
@@ -20,13 +19,17 @@
 .font {
   margin-left: 10px;
   margin-top: 7px;
-  font-size: 26px;
-  font-family: Arial Black;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-.font-text {
-  margin-left: 15px;
-  margin-top: 2px;
-  font-family: Arial, Helvetica, sans-serif;
+.h1 {
+  font-size: 26px;
+}
+.h3 {
+  font-size: 16px;
   color: rgb(133, 130, 130);
+}
+
+.bottom {
+  padding-bottom: 20px;
 }
