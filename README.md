@@ -6,3 +6,4 @@
 | :---: | :--: | :------------: |
 | Flex  | CSS  | [Code](./flex) |
 | Margin_padding  | CSS  | [Code](./margin_padding) |
+| Javascript  | Javascript | [Code](./javascript) |
